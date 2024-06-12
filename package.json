@@ -30,7 +30,7 @@
     "coffeelint": "^2.1.0",
     "rollup": "^2.18.2",
     "rollup-plugin-atomic": "^1.2.0",
-    "@babel/cli": "7.10.3",
+    "@babel/cli": "7.24.7",
     "@babel/core": "7.10.3",
     "babel-preset-atomic": "^1.0.7",
     "shx": "^0.3.2",
